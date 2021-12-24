@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-Problems which i practice on sorting algorithms will be seen  in this repository
+Problems which I practice on Sorting Algorithms will be seen  in this repository
